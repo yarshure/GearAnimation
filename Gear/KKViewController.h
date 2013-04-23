@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface KKViewController : UIViewController
+- (IBAction)startStopAction:(id)sender;
 
 @end
